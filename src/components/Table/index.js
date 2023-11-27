@@ -72,7 +72,7 @@ const Table = ()=> {
                                 old_price='2.299,00'
                                 price='2.010,00'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6452/6452940_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem da NVIDIA GeForce RTX 3060 Ventus'
                             />
                         </td>
                         <td className='column'>
@@ -82,7 +82,7 @@ const Table = ()=> {
                                 old_price='3.333,32'
                                 price='2.799,99'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6545/6545379_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem da NVIDIA GeForce RTX 4060 Ti GAMING'
                             />
                         </td>
                         <td className='column'>
@@ -92,7 +92,7 @@ const Table = ()=> {
                                 old_price='3.159,89'
                                 price='2.749,52'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6497/6497196_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem da AMD Radeon RX 6500 XT Mech 2X'
                             />
                         </td>
                         <td className='column'>

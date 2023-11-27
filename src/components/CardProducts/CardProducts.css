@@ -1,7 +1,7 @@
 .container{
     width: 340px; 
     height: 370px;
-    max-width: 340px;
+    max-width: 280px;
     max-height: 370px;
     position: relative;
     border: 1px solid #252525;
@@ -9,7 +9,7 @@
     
 }
 
-@media screen and (max-width: 768px){
+@media (max-width: 1080px){
     .container{
         width: 250px;
         max-width: 250px;
@@ -27,7 +27,7 @@
 }
 
 .image{
-    width: 300px;
+    width: 250px;
     height: 150px;
     margin: auto;
 }
@@ -39,7 +39,7 @@
 }
 
 .title{
-    font-size: 18px;
+    font-size: 14px;
     padding: 10px;    
 }
 
