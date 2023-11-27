@@ -1,0 +1,24 @@
+responsive-table{
+    width: 100% !important;
+}
+
+.section{
+    margin-top: 18px;
+    font-size: 20px;
+    
+}
+
+table{
+    width: 50% !important; 
+    margin: auto;
+}
+
+.column{
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.line-brands{
+    margin: 0 auto;
+}

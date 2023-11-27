@@ -1,0 +1,106 @@
+header{
+    background-color: hsl(219, 86%, 42%)
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar{
+    min-height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 34px;
+}
+
+.logo{
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.logo-div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.nav-itens span{
+    color: #fff;
+}
+
+.nav-itens span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.modal{
+    text-align: center;
+    width:100%;
+    height: 80%;
+    display: inline-block;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+
+}
+
+.container-form{
+    background-color: #FFF;
+
+}
+
+.close{
+    color: #FFF;
+    text-align: right;
+}
+
+.form-cep{
+    
+}
+
+.form-cep h2{
+    padding: 5px;
+}
+
+.form-cep label{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.form-cep input{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.table-services{
+    width: 100%;
+    margin-top: 80px;
+    background-color: #fff;
+}
+
+.thead{
+    font-weight: bold;
+}
+
+.table-services td{
+    border: 0.5px solid black;
+    padding: 25px;
+}
+
+.price{
+    color: rgb(61, 121, 61);
+    font-weight: bold;
+}
