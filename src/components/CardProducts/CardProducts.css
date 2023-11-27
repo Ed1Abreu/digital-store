@@ -9,6 +9,16 @@
     
 }
 
+@media screen and (max-width: 768px){
+    .container{
+        width: 250px;
+        max-width: 250px;
+    }
+    .detail{
+        margin-top: -2px;
+    }
+}
+
 .product{
     background: #fafafa;
     padding: 20px;

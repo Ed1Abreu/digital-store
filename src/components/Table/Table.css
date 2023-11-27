@@ -1,4 +1,4 @@
-responsive-table{
+.responsive-table{
     width: 100% !important;
 }
 
@@ -9,7 +9,6 @@ responsive-table{
 }
 
 table{
-    width: 50% !important; 
     margin: auto;
 }
 
@@ -22,3 +21,4 @@ table{
 .line-brands{
     margin: 0 auto;
 }
+
