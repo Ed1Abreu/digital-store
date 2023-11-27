@@ -17,7 +17,7 @@ const Table = ()=> {
                                 old_price='2.241,04'
                                 price='1.999,99'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438942_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do Processador AMD Ryzen 9 5900X'
                             />
                         </td>
                         <td className='column'>
@@ -27,7 +27,7 @@ const Table = ()=> {
                                 old_price='3.888,39'
                                 price='3.534,90'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6560/6560420_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do Processador Intel Core i7 14700K'
                             />
                         </td>
                         <td className='column'>
@@ -37,7 +37,7 @@ const Table = ()=> {
                                 old_price='1.684,20'
                                 price='1.489,99'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6439/6439000_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do Processador AMD Ryzen 7 5800X'
                             />
                         </td>
                         <td className='column'>
@@ -47,7 +47,7 @@ const Table = ()=> {
                                 old_price='7.299,00'
                                 price='4.299,00'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6560/6560418_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do Processador Intel Core i9 14900K'
                             />
                         </td>
                         <td className='column'>
@@ -57,7 +57,7 @@ const Table = ()=> {
                                 old_price='3.159,89'
                                 price='2.749,52'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6560/6560423_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do Processador Intel Core I5 14600k 14 Geração, 3.5 Ghz (5.3 Ghz Turbo)'
                             />
                         </td>
                     </tr>
@@ -102,7 +102,7 @@ const Table = ()=> {
                                 old_price='1.429,99'
                                 price='1.247,89'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502683_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem da NVIDIA GeForce GTX 1650'
                             />
                         </td>
                         <td className='column'>
@@ -112,7 +112,7 @@ const Table = ()=> {
                                 old_price='2.595,00'
                                 price='2.359,99'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6476/6476228_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem da AMD Radeon RX 6600 XT'
                             />
                         </td>
                     </tr>
@@ -172,7 +172,7 @@ const Table = ()=> {
                                 old_price='4.799,90'
                                 price='4.463,91'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6561/6561784_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do console PlayStation 5'
                             />
                         </td>
                         <td className='column'>
@@ -182,7 +182,7 @@ const Table = ()=> {
                                 old_price='2.299,00'
                                 price='1.829,00'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6560/6560569_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do console Nintendo - Switch'
                             />
                         </td>
                         <td className='column'>
@@ -192,7 +192,7 @@ const Table = ()=> {
                                 old_price='4.799,00'
                                 price='4.450,00'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6537/6537717_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do console Xbox Series X 1TB'
                             />
                         </td>
                         <td className='column'>
@@ -202,7 +202,7 @@ const Table = ()=> {
                                 old_price='5.999,99'
                                 price='5.459.89'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6563/6563925_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do console PlayStation 5 Slim'
                             />
                         </td>
                         <td className='column'>
@@ -212,7 +212,7 @@ const Table = ()=> {
                                 old_price='2.759,00'
                                 price='2.575,99'
                                 dir='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6558/6558673_sd.jpg;maxHeight=640;maxWidth=550'
-                                alt=''
+                                alt='Imagem do console  Xbox Series S 512GB'
                             />
                         </td>
                     </tr>
